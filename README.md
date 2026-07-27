@@ -1,6 +1,6 @@
 # Matt Janaway
 
-CEO of [Marketing Labs](https://marketinglabs.co.uk), an SEO and digital marketing agency. I build small tools to solve problems I run into doing SEO and marketing work, mostly with [Lovable](https://lovable.dev).
+CEO of [Marketing Labs](https://marketinglabs.co.uk), an SEO and digital marketing agency. I build small tools to solve problems I run into doing SEO and marketing work.
 
 ## Projects
 
